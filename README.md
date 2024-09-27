@@ -1,6 +1,8 @@
 
 # Hidden Native GIMP filters
 
+They use the name space (port:) instead of (lb:) because I did not make them.
+
 ![image](https://github.com/user-attachments/assets/109b947f-ab58-4212-a6dd-2017d4ed3b34)
 
 ![image](https://github.com/user-attachments/assets/25d36452-5ec4-4f79-80d4-8aa116a23790)
